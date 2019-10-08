@@ -1,5 +1,5 @@
 {
-  "name": "Trillo",
+  "name": "trillo",
   "version": "1.0.0",
   "description": "trillo app",
   "main": "index.js",
@@ -19,5 +19,14 @@
     "node-sass": "^4.5.3",
     "npm-run-all": "^4.1.1",
     "postcss-cli": "^4.1.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diesol49/trillo-training.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diesol49/trillo-training/issues"
+  },
+  "homepage": "https://github.com/diesol49/trillo-training#readme"
 }
